@@ -6,6 +6,10 @@ _“Coding is not for just tech people, it is for anyone who wants to run a comp
 
 Mary Callahan Erdoes, head of JPMorgan Asset Management october 2018
 
+_"Bloody bad philosophy," grunted Alexandrov. "Waste of breath. Hypothesis judged by prediction. Only sound method."_
+
+Fred Hoyle, the Black Cloud
+
 ## Create an environment
 To run the jupyter notebook you can create an environemnt that contains the pacakages listed in the file Environment_list.txt. For example in using conda
 
