@@ -34,3 +34,9 @@ A short introduction to VAR and SVAR. The "probabilistic approach" justify under
 
 [Class 4 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Notebooks/Class4.ipynb)
 
+James D. Hamilton “Time Series Analysis” 1994 Princeton University Press. 
+
+Sims, Christopher A. 1980. “Macroeconomics and Reality.” Econometrica. January, 48:1, pp. 1– 48.
+
+Olivier Jean Blanchard and Danny Quah. The Dynamic Effects of Aggregate Demand and Supply Disturbances. The American Economic Review , Vol. 79, No. 4 (Sep., 1989), pp. 655-673
+
