@@ -1,14 +1,14 @@
 # Empirical Macroeconomics: the identification of shocks
 This course provides a non-systematic account of a range of research methods in empirical macroeconomics to identify shocks. It is intended as an apprenticeship to students interested in working in research departments. Students will reproduce the results of three published paper and learn to code in Python.
 
+_"Bloody bad philosophy," grunted Alexandrov. "Waste of breath. Hypothesis judged by prediction. Only sound method."_
+
+Fred Hoyle, the Black Cloud
 
 _“Coding is not for just tech people, it is for anyone who wants to run a competitive company in the 21st century... These are skillsets of the future . . . By better understanding coding, our business teams can speak the same language as our technology teams, which ultimately drives better tools and solutions for our clients.”_
 
 Mary Callahan Erdoes, head of JPMorgan Asset Management october 2018
 
-_"Bloody bad philosophy," grunted Alexandrov. "Waste of breath. Hypothesis judged by prediction. Only sound method."_
-
-Fred Hoyle, the Black Cloud
 
 ## Create an environment
 To run the jupyter notebook you can create an environemnt that contains the pacakages listed in the file Environment_list.txt. For example in using conda
