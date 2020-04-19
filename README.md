@@ -47,7 +47,7 @@ Olivier Jean Blanchard and Danny Quah. The Dynamic Effects of Aggregate Demand a
 ## Non-Fundamental shocks: SVAR and FAVAR
 Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 
-[Class 5 Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Slides/Class5EM2020.pdf)
+[Class 5 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class5EM2020.pdf)
 
 
 References
