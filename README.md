@@ -21,7 +21,7 @@ A short history a econometrics methods in Macroeconomics. In this introductory c
 
 [Introduction Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Slides/Class1EM2020.pdf)
 
-[Class 1 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Notebooks/Class1.ipynb)
+[Class 1 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class1.ipynb)
 
 Reference
 
@@ -30,11 +30,11 @@ Sims Cristopher A., â€œSTATISTICAL MODELING OF MONETARY POLICY AND ITS EFFECTSâ€
 ## Fundamental shocks: VAR and SVAR
 A short introduction to VAR and SVAR. The "probabilistic approach" justify under some conditions the estimation of the distribution of the data with a VAR. The "time-series approach" reaches the same conclusions trough the Wold decomposition. The latter approach is more intuitive to identify the type of shocks that can be recovered through a VAR.
 
-[Class 2 Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Slides/Class2EM2020.pdf)
+[Class 2 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class2EM2020.pdf)
 
-[Class 3 Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Slides/Class3EM2020.pdf)
+[Class 3 Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Slides/Class3EM2020.pdf)
 
-[Class 4 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Notebooks/Class4.ipynb)
+[Class 4 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class4.ipynb)
 
 References
 
