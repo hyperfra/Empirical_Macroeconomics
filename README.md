@@ -19,7 +19,7 @@ conda create -n myenv --file package-list.txt
 ## Introduction
 A short history a econometrics methods in Macroeconomics. In this introductory class we follow Cristopher Sims 2011 Nobel lecture and present a condensed summary of the history of tought of empirical macroeconomics. We also reproduce Haavelmo 1943 model and present maximum likelihood and bayesian methods to estimate it.
 
-[Introduction Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Slides/Class1EM2020.pdf)
+[Introduction Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class1EM2020.pdf)
 
 [Class 1 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class1.ipynb)
 
