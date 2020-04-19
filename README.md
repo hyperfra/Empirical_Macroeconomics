@@ -23,6 +23,8 @@ A short history a econometrics methods in Macroeconomics. In this introductory c
 
 [Class 1 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Notebooks/Class1.ipynb)
 
+Reference
+
 Sims Cristopher A., “STATISTICAL MODELING OF MONETARY POLICY AND ITS EFFECTS”, Nobel Lecture 2011
 
 ## Fundamental shocks: VAR and SVAR
@@ -34,9 +36,28 @@ A short introduction to VAR and SVAR. The "probabilistic approach" justify under
 
 [Class 4 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Notebooks/Class4.ipynb)
 
+References
+
 James D. Hamilton “Time Series Analysis” 1994 Princeton University Press. 
 
 Sims, Christopher A. 1980. “Macroeconomics and Reality.” Econometrica. January, 48:1, pp. 1– 48.
 
 Olivier Jean Blanchard and Danny Quah. The Dynamic Effects of Aggregate Demand and Supply Disturbances. The American Economic Review , Vol. 79, No. 4 (Sep., 1989), pp. 655-673
+
+## Non-Fundamental shocks: SVAR and FAVAR
+Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
+
+[Class 5 Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/edit/Slides/Class5EM2020.pdf)
+
+
+References
+
+James H. Stock, Dynamic Factor Models. Oxford Handbook of Economic Forecasting, Michael P. Clements and David F. Hendry (eds), Oxford University Press. 2011
+
+Lippi, Marco and Lucrezia Reichlin. The Dynamic Effects of Aggregate Demand and Supply Disturbances: Comment. American Economic Review 83(3), 644-652.
+
+Fernández-Villaverde, Jesús, Juan F. Rubio-Ramí­rez, Thomas J. Sargent and Mark W. Watson. 2007. ABCs (and Ds) of Understanding VARs. American Economic Review, 97(3):1021-1026.
+
+(*)Bernanke, Ben, Jean Boivin, and Piotr Eliasz. 2005. Measuring the Effects of Monetary Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach Quarterly Journal of Economics 120(1), 387-422.Link
+
 
