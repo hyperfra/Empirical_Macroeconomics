@@ -49,6 +49,7 @@ Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 
 [Class 5 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class5EM2020.pdf)
 
+[Class 6 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class6EM2020.pdf)
 
 References
 
