@@ -57,7 +57,9 @@ James H. Stock, Dynamic Factor Models. Oxford Handbook of Economic Forecasting, 
 
 Lippi, Marco and Lucrezia Reichlin. The Dynamic Effects of Aggregate Demand and Supply Disturbances: Comment. American Economic Review 83(3), 644-652.
 
-Fernández-Villaverde, Jesús, Juan F. Rubio-Ramí­rez, Thomas J. Sargent and Mark W. Watson. 2007. ABCs (and Ds) of Understanding VARs. American Economic Review, 97(3):1021-1026.
+Fernández-Villaverde, Jesús, Juan F. Rubio-Ramírez, Thomas J. Sargent and Mark W. Watson. 2007. ABCs (and Ds) of Understanding VARs. American Economic Review, 97(3):1021-1026.
+
+Mario Forni, Luca Gambetti and Luca Sala, No news in Business Cycles. The Economic Journal, 124 (December), 1168–1191 December 2013.
 
 (*)Bernanke, Ben, Jean Boivin, and Piotr Eliasz. 2005. Measuring the Effects of Monetary Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach Quarterly Journal of Economics 120(1), 387-422.Link
 
