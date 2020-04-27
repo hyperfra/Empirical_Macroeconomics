@@ -51,6 +51,9 @@ Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 
 [Class 6 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class6EM2020.pdf)
 
+[Class 7 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/NotebookClassBEE3.ipynb)
+
+
 References
 
 James H. Stock, Dynamic Factor Models. Oxford Handbook of Economic Forecasting, Michael P. Clements and David F. Hendry (eds), Oxford University Press. 2011
