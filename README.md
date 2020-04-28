@@ -21,7 +21,7 @@ A short history a econometrics methods in Macroeconomics. In this introductory c
 
 [Introduction Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class1EM2020.pdf)
 
-[Class 1 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class1.ipynb)
+[Class 2 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class1.ipynb)
 
 Reference
 
@@ -30,11 +30,11 @@ Sims Cristopher A., â€œSTATISTICAL MODELING OF MONETARY POLICY AND ITS EFFECTSâ€
 ## Fundamental shocks: VAR and SVAR
 A short introduction to VAR and SVAR. The "probabilistic approach" justify under some conditions the estimation of the distribution of the data with a VAR. The "time-series approach" reaches the same conclusions trough the Wold decomposition. The latter approach is more intuitive to identify the type of shocks that can be recovered through a VAR.
 
-[Class 2 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class2EM2020.pdf)
+[Class 3 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class2EM2020.pdf)
 
-[Class 3 Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Slides/Class3EM2020.pdf)
+[Class 4 Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Slides/Class3EM2020.pdf)
 
-[Class 4 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/class4.ipynb)
+[Class 5 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/class4.ipynb)
 
 References
 
@@ -47,11 +47,11 @@ Olivier Jean Blanchard and Danny Quah. The Dynamic Effects of Aggregate Demand a
 ## Non-Fundamental shocks: SVAR and FAVAR
 Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 
-[Class 5 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class5EM2020.pdf)
+[Class 6 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class5EM2020.pdf)
 
-[Class 6 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class6EM2020.pdf)
+[Class 7 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class6EM2020.pdf)
 
-[Class 7 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/NotebookClassBEE3.ipynb)
+[Class 8 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/NotebookClassBEE3.ipynb)
 
 
 References
@@ -67,3 +67,16 @@ Mario Forni, Luca Gambetti and Luca Sala, No news in Business Cycles. The Econom
 (*)Bernanke, Ben, Jean Boivin, and Piotr Eliasz. 2005. Measuring the Effects of Monetary Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach Quarterly Journal of Economics 120(1), 387-422.Link
 
 
+## Non-recoverable shocks: Kalman and Structural Models
+News, Kalman Filter. Invertibility problems concerns shocks observed by agents. What is agents cannot observe fully the shocks.
+
+[Class 9 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class9EM2020.pdf)
+
+[Class 10 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/BHL.ipynb)
+
+
+References
+
+James D. Hamilton Time Series Analysis 1994 Princeton University Press.
+
+(*)Blanchard, Olivier J., Jean-Paul L'Huillier and Guido Lorenzoni. 2013. News, Noise, and Fluctuations: An Empirical Exploration American Economic Review, 103(7):3045-70.Link
