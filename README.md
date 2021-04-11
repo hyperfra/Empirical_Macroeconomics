@@ -30,7 +30,7 @@ Sims Cristopher A., â€œSTATISTICAL MODELING OF MONETARY POLICY AND ITS EFFECTSâ€
 ## Fundamental shocks: VAR and SVAR
 A short introduction to VAR and SVAR. The "probabilistic approach" justify under some conditions the estimation of the distribution of the data with a VAR. The "time-series approach" reaches the same conclusions trough the Wold decomposition. The latter approach is more intuitive to identify the type of shocks that can be recovered through a VAR.
 
-[Class 3 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class2EM2020.pdf)
+[Class 3 Slides html](https://hyperfra.github.io/EmpiricalMacroClass2/)
 
 [Class 4 Slides ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Slides/Class3EM2020.pdf)
 
