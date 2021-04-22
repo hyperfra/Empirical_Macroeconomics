@@ -32,8 +32,8 @@ A short introduction to VAR and SVAR. The "probabilistic approach" justify under
 
 [Class 3 Slides html](https://hyperfra.github.io/EmpiricalMacroClass2/)
 
-[Class 4 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/class4.ipynb)
-
+[Class 4-5 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/class4.ipynb)
+ 
 
 References
 
@@ -46,7 +46,7 @@ Olivier Jean Blanchard and Danny Quah. The Dynamic Effects of Aggregate Demand a
 ## Non-Fundamental shocks: SVAR and FAVAR
 Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 
-[Class 6 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class5EM2020.pdf)
+[Class 6 Slides html](https://hyperfra.github.io/EmpiricalMacroClass3/)
 
 [Class 7 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class6EM2020.pdf)
 
