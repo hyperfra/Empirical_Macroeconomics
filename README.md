@@ -48,9 +48,8 @@ Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 
 [Class 6 Slides html](https://hyperfra.github.io/EmpiricalMacroClass3/)
 
-[Class 7 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class6EM2020.pdf)
-
-[Class 8 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/NotebookClassBEE3.ipynb)
+[Class 7 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/class7.ipynb)
+ 
 
 
 References
@@ -69,9 +68,6 @@ Mario Forni, Luca Gambetti and Luca Sala, No news in Business Cycles. The Econom
 ## Non-recoverable shocks: Kalman and Structural Models
 News, Kalman Filter. Invertibility problems concerns shocks observed by agents. What if agents cannot observe fully the shocks.
 
-[Class 9 Slides ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Slides/Class9EM2020.pdf)
-
-[Class 10 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/BHL.ipynb)
 
 
 References
