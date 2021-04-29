@@ -68,7 +68,7 @@ Mario Forni, Luca Gambetti and Luca Sala, No news in Business Cycles. The Econom
 ## Non-recoverable shocks: Kalman and Structural Models
 News, Kalman Filter. Invertibility problems concerns shocks observed by agents. What if agents cannot observe fully the shocks.
 
-
+[Class 8 Slides html](https://hyperfra.github.io/EmpiricalMacroClass4/)
 
 References
 
