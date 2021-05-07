@@ -70,7 +70,7 @@ News, Kalman Filter. Invertibility problems concerns shocks observed by agents. 
 
 [Class 8-9 Slides html](https://hyperfra.github.io/EmpiricalMacroClass4/)
 
-[Class 10-11 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/BHL.ipynb)
+[Class 10-11 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/Class10.ipynb)
 
 References
 
