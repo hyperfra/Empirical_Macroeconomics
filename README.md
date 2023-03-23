@@ -11,7 +11,7 @@ Mary Callahan Erdoes, head of JPMorgan Asset Management october 2018
 
 
 ## Create an environment
-To run the jupyter notebook you can create an environemnt that contains the pacakages listed in the file Environment_list.txt. For example in using conda
+To run the jupyter notebook you can create an environemnt that contains the pacakages listed in the file Environment_list.txt (created in the first notebook). For example in using conda
 
 ```
 conda create -n myenv --file package-list.txt
