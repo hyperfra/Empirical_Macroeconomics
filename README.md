@@ -1,6 +1,14 @@
 # Empirical Macroeconomics: the identification of shocks
 This course provides a non-systematic account of a range of research methods in empirical macroeconomics to identify shocks. It is intended as an apprenticeship to students interested in working in research departments. Students will reproduce the results of three published paper and learn to code in Python.
 
+Starting in 2025 we will integrate GEN AI in the course to deepen student learning and understanding. When students are implementing time series models from the papers, they could use GEN AI to:
+
+- Debug their code with detailed explanations of what might be going wrong and why
+- Get step-by-step guidance on translating the mathematical equations from papers into Python code
+- Have their code reviewed with suggestions for improvement in both functionality and style
+
+Students might also consider using GEN AI to create individualized learning paths. For example, if a student is struggling with understanding stationarity concepts, GEN AI can provide tailored explanations and generate specific examples using their actual data. For this to work we will need to learn how to effectively phrase questions to get the most helpful responses for econometric implementation.
+
 _"Bloody bad philosophy," grunted Alexandrov. "Waste of breath. Hypothesis judged by prediction. Only sound method."_
 
 Fred Hoyle, the Black Cloud
