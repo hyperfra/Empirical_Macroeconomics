@@ -31,6 +31,8 @@ A short history a econometrics methods in Macroeconomics. In this introductory c
 
 [Class 2 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class1.ipynb)
 
+[Class 2 Colab ](https://colab.research.google.com/drive/1jX0r00MmvVU6BWQEl1FE4AAiw66iOkMX?usp=sharing)
+
 Reference
 
 Sims Cristopher A., “STATISTICAL MODELING OF MONETARY POLICY AND ITS EFFECTS”, Nobel Lecture 2011
