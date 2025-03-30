@@ -33,9 +33,9 @@ A short history a econometrics methods in Macroeconomics. In this introductory c
 
 [Introduction html](https://hyperfra.github.io/EmpiricalMacroClass1/)
 
-[Class 2 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class1.ipynb)
+[Class 1-2 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class1.ipynb)
 
-[Class 2 Colab ](https://colab.research.google.com/drive/1jX0r00MmvVU6BWQEl1FE4AAiw66iOkMX?usp=sharing)
+[Class 1-2 Colab ](https://colab.research.google.com/drive/1jX0r00MmvVU6BWQEl1FE4AAiw66iOkMX?usp=sharing)
 
 Reference
 
