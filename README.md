@@ -24,6 +24,10 @@ To run the jupyter notebook you can create an environemnt that contains the paca
 ```
 conda create -n myenv --file package-list.txt
 ```
+## Colab
+The 2025 course starts using Colab and teh integrated Gemini agent
+
+
 ## Introduction
 A short history a econometrics methods in Macroeconomics. In this introductory class we follow Cristopher Sims 2011 Nobel lecture and present a condensed summary of the history of tought of empirical macroeconomics. We also reproduce Haavelmo 1943 model and present maximum likelihood and bayesian methods to estimate it.
 
