@@ -33,8 +33,6 @@ A short history a econometrics methods in Macroeconomics. In this introductory c
 
 [Introduction html](https://hyperfra.github.io/EmpiricalMacroClass1/)
 
-[Class 1-2 Notebook ](https://github.com/superfranci/Empirical_Macroeconomics/blob/master/Notebooks/Class1.ipynb)
-
 [Class 1-2 Colab ](https://colab.research.google.com/drive/1jX0r00MmvVU6BWQEl1FE4AAiw66iOkMX?usp=sharing)
 
 Reference
@@ -45,8 +43,6 @@ Sims Cristopher A., â€œSTATISTICAL MODELING OF MONETARY POLICY AND ITS EFFECTSâ€
 A short introduction to VAR and SVAR. The "probabilistic approach" justify under some conditions the estimation of the distribution of the data with a VAR. The "time-series approach" reaches the same conclusions trough the Wold decomposition. The latter approach is more intuitive to identify the type of shocks that can be recovered through a VAR.
 
 [Class 3 Slides html](https://hyperfra.github.io/EmpiricalMacroClass2/)
-
-[Class 3-4 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/class4.ipynb)
 
 [Class 3-4 Colab](https://colab.research.google.com/drive/1e1by4__4V3XiURZLFhgbLF4CAaqkklim#scrollTo=kDOj6bWtmuHs)
  
