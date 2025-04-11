@@ -45,6 +45,8 @@ A short introduction to VAR and SVAR. The "probabilistic approach" justify under
 [Class 3 Slides html](https://hyperfra.github.io/EmpiricalMacroClass2/)
 
 [Class 3-4 Colab](https://colab.research.google.com/drive/1e1by4__4V3XiURZLFhgbLF4CAaqkklim#scrollTo=kDOj6bWtmuHs)
+
+[Problem set 1](https://colab.research.google.com/drive/1SP0WS-COMTWkubbj58gcsdS-rPGMhbYI?usp=sharing)
  
 
 References
