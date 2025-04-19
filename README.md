@@ -44,7 +44,7 @@ A short introduction to VAR and SVAR. The "probabilistic approach" justify under
 
 [Class 3 Slides html](https://hyperfra.github.io/EmpiricalMacroClass2/)
 
-[Class 3-4 Colab](https://colab.research.google.com/drive/1e1by4__4V3XiURZLFhgbLF4CAaqkklim#scrollTo=kDOj6bWtmuHs)
+[Class 3-5 Colab](https://colab.research.google.com/drive/1e1by4__4V3XiURZLFhgbLF4CAaqkklim#scrollTo=kDOj6bWtmuHs)
 
 [Problem set 1](https://colab.research.google.com/drive/1SP0WS-COMTWkubbj58gcsdS-rPGMhbYI?usp=sharing)
  
@@ -60,9 +60,9 @@ Olivier Jean Blanchard and Danny Quah. The Dynamic Effects of Aggregate Demand a
 ## Non-Fundamental shocks: SVAR and FAVAR
 Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 
-[Class 6 Slides html](https://hyperfra.github.io/EmpiricalMacroClass3/)
+[Class 6-8 Slides html](https://hyperfra.github.io/EmpiricalMacroClass3/)
 
-[Class 7 Notebook ](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/Notebooks/Class7.ipynb)
+[Class 6-8 Colab](https://colab.research.google.com/drive/1MeyDcFZRYYsm3Rt7dSXFFmbjo3E9YqXV?usp=sharing)
  
 
 
@@ -91,3 +91,4 @@ References
 James D. Hamilton Time Series Analysis 1994 Princeton University Press.
 
 (*)Blanchard, Olivier J., Jean-Paul L'Huillier and Guido Lorenzoni. 2013. News, Noise, and Fluctuations: An Empirical Exploration American Economic Review, 103(7):3045-70.Link
+)
