@@ -76,7 +76,7 @@ Fernández-Villaverde, Jesús, Juan F. Rubio-Ramírez, Thomas J. Sargent and Mar
 
 Mario Forni, Luca Gambetti and Luca Sala, No news in Business Cycles. The Economic Journal, 124 (December), 1168–1191 December 2013.
 
-(*)Bernanke, Ben, Jean Boivin, and Piotr Eliasz. 2005. Measuring the Effects of Monetary Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach Quarterly Journal of Economics 120(1), 387-422.Link
+(*)Bernanke, Ben, Jean Boivin, and Piotr Eliasz. 2005. Measuring the Effects of Monetary Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach Quarterly Journal of Economics 120(1), 387-422. [Link](https://academic.oup.com/qje/article-abstract/120/1/387/1931468?redirectedFrom=fulltext&login=false=
 
 
 ## Non-recoverable shocks: Kalman and Structural Models
