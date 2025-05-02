@@ -47,6 +47,8 @@ A short introduction to VAR and SVAR. The "probabilistic approach" justify under
 [Class 3-5 Colab](https://colab.research.google.com/drive/1e1by4__4V3XiURZLFhgbLF4CAaqkklim#scrollTo=kDOj6bWtmuHs)
 
 [Problem set 1](https://colab.research.google.com/drive/1SP0WS-COMTWkubbj58gcsdS-rPGMhbYI?usp=sharing)
+
+[prompt for Var resolution](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/data/Prompt_for_VAR_resolution.pdf)
  
 
 References
@@ -65,6 +67,9 @@ Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 [Class 6-8 Colab](https://colab.research.google.com/drive/1MeyDcFZRYYsm3Rt7dSXFFmbjo3E9YqXV?usp=sharing)
 
 [Problem set 2](https://colab.research.google.com/drive/1hM_mgFjyoJV79EpddJ8_6eQmkDtEkxLJ?usp=sharing)
+
+[prompt for code improvement](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/data/prompt_for_code_improvement.pdf)
+ 
  
 
 
