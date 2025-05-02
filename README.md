@@ -55,7 +55,7 @@ James D. Hamilton “Time Series Analysis” 1994 Princeton University Press.
 
 Sims, Christopher A. 1980. “Macroeconomics and Reality.” Econometrica. January, 48:1, pp. 1– 48.
 
-Olivier Jean Blanchard and Danny Quah. The Dynamic Effects of Aggregate Demand and Supply Disturbances. The American Economic Review , Vol. 79, No. 4 (Sep., 1989), pp. 655-673
+Olivier Jean Blanchard and Danny Quah. The Dynamic Effects of Aggregate Demand and Supply Disturbances. The American Economic Review , Vol. 79, No. 4 (Sep., 1989), pp. 655-673 [Link](https://www.jstor.org/stable/2117539)
 
 ## Non-Fundamental shocks: SVAR and FAVAR
 Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
