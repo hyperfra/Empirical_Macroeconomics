@@ -98,5 +98,5 @@ References
 
 James D. Hamilton Time Series Analysis 1994 Princeton University Press.
 
-(*)Blanchard, Olivier J., Jean-Paul L'Huillier and Guido Lorenzoni. 2013. News, Noise, and Fluctuations: An Empirical Exploration American Economic Review, 103(7):3045-70.Link
-)
+(*)Blanchard, Olivier J., Jean-Paul L'Huillier and Guido Lorenzoni. 2013. News, Noise, and Fluctuations: An Empirical Exploration American Economic Review, 103(7):3045-70.[Link](https://www.aeaweb.org/articles?id=10.1257/aer.103.7.3045)
+
