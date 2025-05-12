@@ -94,6 +94,8 @@ News, Kalman Filter. Invertibility problems concerns shocks observed by agents. 
 
 [Class 8-12 Colab ](https://colab.research.google.com/drive/1cl8ss5LQKkiwYToQR9Yfs1VrmLRF2MyS?usp=sharing)
 
+[Problem Set 3](https://colab.research.google.com/drive/1hM_mgFjyoJV79EpddJ8_6eQmkDtEkxLJ?usp=sharing)
+
 References
 
 James D. Hamilton Time Series Analysis 1994 Princeton University Press.
