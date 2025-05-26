@@ -66,7 +66,7 @@ Non invertibility, Non-Fundamentalness, Kalman Filter, FAVAR, Factors.
 
 [Class 6-8 Colab](https://colab.research.google.com/drive/1MeyDcFZRYYsm3Rt7dSXFFmbjo3E9YqXV?usp=sharing)
 
-[Problem set 2]([https://colab.research.google.com/drive/1hM_mgFjyoJV79EpddJ8_6eQmkDtEkxLJ?usp=sharing](https://colab.research.google.com/drive/1HiD2ebjUxhKKWHoATx_IX3HpdXJz3NNl?usp=sharing))
+[Problem set 2](https://colab.research.google.com/drive/1HiD2ebjUxhKKWHoATx_IX3HpdXJz3NNl?usp=sharing)
 
 [prompt for code improvement](https://github.com/hyperfra/Empirical_Macroeconomics/blob/master/data/prompt_for_code_improvement.pdf)
  
