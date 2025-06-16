@@ -25,7 +25,7 @@ To run the jupyter notebook you can create an environemnt that contains the paca
 conda create -n myenv --file package-list.txt
 ```
 ## Colab
-The 2025 course starts using Colab and teh integrated Gemini agent
+The 2025 course starts using Colab and the integrated Gemini agent
 
 
 ## Introduction
